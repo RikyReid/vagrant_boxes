@@ -12,6 +12,6 @@ npm install n
 n stable
 
 npm install express
-
+npm install --global gulp
 #npm install -g brunch
 #npm install -g you grunt-cli generator-webapp bower

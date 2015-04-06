@@ -2,6 +2,7 @@
 
 curl -sL https://deb.nodesource.com/setup | bash -
 
+apt-get install build-essential g++
 apt-get update
 apt-get install -y nodejs
 apt-get install -y mongodb
